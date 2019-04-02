@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Photo Gallery
-description: Pursue your dream
+description: Please get good grades
 order: 2
 ---
 
