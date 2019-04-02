@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Photo Gallery
-description: Please get good grades
+description: UA Test Site
 order: 2
 ---
 
