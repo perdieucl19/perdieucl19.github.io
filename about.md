@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Please get good grades
+description: UA Test Site
 permalink: /about/
 order: 3
 ---
