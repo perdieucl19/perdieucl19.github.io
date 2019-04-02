@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-description: Pursue your dream
+title: Luke Perdieu UA Test Site
+description: Please get good grades
 permalink: /
 order: 1
 ---
